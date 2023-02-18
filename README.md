@@ -19,5 +19,5 @@ But you can also call me Paul. I'm an 18-year-old programmer living in the Krako
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
 </p>
 
-## Contact with me
+## Contact me
 E-mail: fordcrown2009@gmail.com
