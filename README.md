@@ -1,6 +1,6 @@
 ## Hi there, it's Paweł 👋 
 
-But you can also call me Paul. I'm an 18-year-old programmer living in the Krakow area with a passion for creating. I am contantly looking for new experiences and opportunities to expand my skills and knowledge. At the moment, I focus one hundred percent on web applications, with ambitions to become a fullstack developer. 💻✈️🗺️
+But you can also call me Paul. I'm an 18-year-old programmer living in the Krakow area with a passion for creating. I am constantly looking for new experiences and opportunities to expand my skills and knowledge. At the moment, I focus one hundred percent on web applications, with ambitions to become a fullstack developer. 💻✈️🗺️
 
 ## Here are my skills 
 
