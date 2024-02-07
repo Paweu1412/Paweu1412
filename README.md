@@ -13,11 +13,11 @@ But you can also call me Paul. I'm an 19-year-old programmer living in the Krako
   <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" height="40"/> 
   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="nodejs" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://i.imgur.com/WuQOrIg.png" alt="tailwind" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" alt="materialui" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/> 
   <img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" alt="jira" width="40" height="40"/> 
-  <img src="https://i.imgur.com/WuQOrIg.png" alt="tailwind" height="35"/>
 </p>
 
 ## Contact me
