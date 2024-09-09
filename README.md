@@ -1,8 +1,7 @@
 ## Hi there, it's Paweł 👋 
 
-I'm a programmeer living in the Krakow area with a passion for creating. I am constantly looking for new experiences and opportunities to expand my skills and knowledge. At the moment, I focus one hundred percent on web applications, with ambitions to become a fullstack developer. 💻✈️🗺️
+I'm a programmeer living in the Krakow area with a passion for creating. I am constantly looking for new experiences and opportunities to expand my skills and knowledge. At the moment, I focus one hundred percent on web applications, with ambitions to become a fullstack developer. 💻✈️🗺️<br><br>
 
-## Here are my skills 
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> 
