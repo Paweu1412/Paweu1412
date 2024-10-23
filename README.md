@@ -1,6 +1,6 @@
 ## Hi there, it's Paweł 👋 
 
-I'm a programmeer living in the Krakow area with a passion for creating. I am constantly looking for new experiences and opportunities to expand my skills and knowledge. At the moment, I focus one hundred percent on web applications, with ambitions to become a fullstack developer. 💻✈️🗺️<br><br>
+I'm a programmer based in Krakow, passionate about creating innovative web applications. I'm always exploring new opportunities to expand my skills, with a strong focus on becoming a fullstack developer. I thrive on learning new technologies and take joy in balancing web development with my love for aviation. 💻✈️🗺️<br>
 
 
 <p align="left">
@@ -15,5 +15,5 @@ I'm a programmeer living in the Krakow area with a passion for creating. I am co
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/> 
 </p>
 
-## Contact me
-E-mail: pa.nosalski@gmail.com
+## Let's connect:
+**E-mail:** [pa.nosalski@gmail.com](mailto:pa.nosalski@gmail.com)
