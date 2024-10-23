@@ -15,4 +15,6 @@ I'm a programmer based in Krakow, passionate about creating innovative web appli
 </p>
 
 ## Let's connect:
-**E-mail:** [pa.nosalski@gmail.com](mailto:pa.nosalski@gmail.com)
+**E-mail:** [pa.nosalski@gmail.com](mailto:pa.nosalski@gmail.com)<br><br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paweu1412&theme=discord_old_blurple)
