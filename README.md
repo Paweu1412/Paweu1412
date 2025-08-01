@@ -3,7 +3,7 @@
 Started coding a couple of years back, and it’s been a nonstop journey of learning and leveling up with 
 every project. Got my hands dirty at devGaming.pl, diving deep into the fast-paced world of game 
 development, where I worked on both backend and frontend to make gameplay smoother and more fun. 
-Served as the lead developer at Redemption — a server that brought together hundreds of players, all 
+Served as the lead developer at Redemption — a project that brought together hundreds of players, all 
 united by the vision of reviving the true spirit of mmoRPGs.<br>
 
 
