@@ -1,6 +1,10 @@
 ## Hi there, it's Paweł 👋 
 
-I'm a programmer based in Krakow, passionate about creating innovative web applications. I'm always exploring new opportunities to expand my skills, with a strong focus on becoming a fullstack developer. I thrive on learning new technologies and take joy in balancing web development with my love for aviation. 💻✈️🗺️<br>
+Started coding a couple of years back, and it’s been a nonstop journey of learning and leveling up with 
+every project. Got my hands dirty at devGaming.pl, diving deep into the fast-paced world of game 
+development, where I worked on both backend and frontend to make gameplay smoother and more fun. 
+Served as the lead developer at Redemption — a server that brought together hundreds of players, all 
+united by the vision of reviving the true spirit of mmoRPGs.<br>
 
 
 
